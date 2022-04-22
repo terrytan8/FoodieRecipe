@@ -3,10 +3,10 @@
   alt="Main Page" width ="50" height = "50" />
 
 
-ProjectNoted helps users to record recipes with details. Users can create a recipe with picture,. Users can also add member to specific board and assign task to them.
+FoodieRecipe helps users to record recipes with details. Users can create a recipe with picture,. Users can also add member to specific board and assign task to them.
 
 ## Sreenshot
-<img src="app/src/main/res/drawable/scene1.png" 
+<img src="app/src/main/res/drawable-v24/scene1.png" 
   alt="Splash" width="200"/>
 <img src="app/src/main/res/drawable/scene2.png"
   alt="Sign in" width="200"/>
