@@ -17,7 +17,7 @@
         <activity
             android:name=".view.activities.AddUpdateRecipeActivity"
             android:theme="@style/Theme.FoodieRecipe.NoActionBar"
-            android:label="Add Dish"
+            android:label="Add Recipe"
             android:exported="true" />
         <activity
             android:name=".view.activities.IntroActivity"
