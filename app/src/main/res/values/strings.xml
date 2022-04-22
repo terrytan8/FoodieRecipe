@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">FoodieRecipe</string>
+    <string name="title_home">My Recipe</string>
+    <string name="title_dashboard">Favourite</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="splash_screen_title">FoodieRecipe</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="label_no_dishes_edit_yet">No Recipe Added Yet…</string>
+    <string name="image_contentDescription">contentDesciption</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lbl_yes">YES</string>
+    <string name="lbl_no">NO</string>
+    <string name="title_delete_recipe">Delete Recipe</string>
+    <string name="msg_delete_recipe_dialog">Are you sure you want to delete %1$s</string>
+    <string name="title_select_item_to_filter">SELECT ITEM TO FILTER</string>
+    <string name="action_filter_dishes">Filter Recipe</string>
+    <string name="add_dish">Add Recipe</string>
+    <string name="title_edit_dish">Edit Recipe</string>
+    <string name="title_add_dish">Add Recipe</string>
+    <string name="err_msg_select_dish_image">Please choose an image</string>
+    <string name="err_msg_enter_dish_title">Enter Recipe Title</string>
+    <string name="err_msg_select_dish_type">Select recipe type</string>
+    <string name="err_msg_select_dish_category">Select recipe category</string>
+    <string name="err_msg_enter_dish_ingredients">Select recipe ingredients</string>
+    <string name="err_msg_select_dish_cooking_time">Select recipe cooking time</string>
+    <string name="err_msg_enter_dish_cooking_instructions">Enter recipe cooking instruction</string>
+    <string name="lbl_title">Title</string>
+    <string name="lbl_type">Type</string>
+    <string name="lbl_category">Category</string>
+    <string name="lbl_ingredients">Ingredients</string>
+    <string name="lbl_cooking_time_in_minutes">Cooking time in minutes</string>
+    <string name="lbl_direction_to_cook">Direction to cook</string>
+    <string name="lbl_add_dish">Add Recipe</string>
+    <string name="title_update_dish">Update Recipe</string>
+    <string name="title_select_dish_type">Select Recipe Type</string>
+    <string name="title_select_dish_category">Select Recipe Category</string>
+    <string name="title_select_dish_cooking_time">Select Cooking Time</string>
+    <string name="lbl_camera">Camera</string>
+    <string name="lbl_gallery">Gallery</string>
+    <string name="title_select_image">Select Image</string>
+    <string name="permission_failed">Looks like you have turned off the permission</string>
+    <string name="go_to_setting">Go To Setting</string>
+    <string name="cancel">Cancel</string>
+    <string name="label_no_favourite_dishes_add_yet">No favourite recipes added yet</string>
+    <string name="action_edit_dish">Edit recipe</string>
+    <string name="action_delete_dish">Delete recipe</string>
+    <string name="action_share_dish">Share Recipe</string>
+    <string name="lbl_estimate_cooking_time">The approximate time required to cook the dish is %1$s minutes.</string>
+    <string name="msg_add_to_favourite">Add to favourite</string>
+    <string name="msg_add_to_unfavourite">Remove from favourite</string>
+    <string name="app_intro_image_content_description">Graphics</string>
+</resources>

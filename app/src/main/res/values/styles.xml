@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppIntroDefaultImage">
+        <item name="android:paddingLeft">32dp</item>
+        <item name="android:paddingRight">32dp</item>
+        <item name="android:scaleType">centerInside</item>
+    </style>
+
+    <style name="AppIntroDefaultText" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/appintro_desctext_size</item>
+        <item name="android:padding">@dimen/appintro_desc_padding</item>
+        <item name="android:gravity">center</item>
+        <item name="autoSizeTextType">uniform</item>
+        <item name="autoSizeMaxTextSize">@dimen/appintro_desctext_size</item>
+        <item name="autoSizeMinTextSize">@dimen/appintro_min_text_size</item>
+        <item name="autoSizeStepGranularity">@dimen/appintro_text_granularity_size</item>
+    </style>
+
+    <dimen name="appintro_desctext_size">16sp</dimen>
+    <dimen name="appintro_desc_padding">16dp</dimen>
+    <dimen name="appintro_min_text_size">12sp</dimen>
+    <dimen name="appintro_text_granularity_size">2sp</dimen>
+</resources>
