@@ -8,18 +8,18 @@ FoodieRecipe helps users to record recipes with details. Users can create a reci
 ## Sreenshot
 <img src="app/src/main/res/drawable-v24/scene1.png" 
   alt="Splash" width="200"/>
-<img src="app/src/main/res/drawable/scene2.png"
-  alt="Sign in" width="200"/>
-<img src="app/src/main/res/drawable/scene3.png"
-  alt="My Profile" width="200"/>
-<img src="app/src/main/res/drawable/scene4.png"
-  alt="Board" width="200"/>
-<img src="app/src/main/res/drawable/scene5.png"
-  alt="Board page" width="200"/>
-<img src="app/src/main/res/drawable/scene6.png"
-  alt="Board" width="200"/>
-<img src="app/src/main/res/drawable/scene7.png"
-  alt="Board" width="200"/>
+<img src="app/src/main/res/drawable-v24/scene2.png"
+  alt="Onboarding" width="200"/>
+<img src="app/src/main/res/drawable-v24/scene3.png"
+  alt="Permission" width="200"/>
+<img src="app/src/main/res/drawable-v24/scene4.png"
+  alt="Home" width="200"/>
+<img src="app/src/main/res/drawable-v24/scene5.png"
+  alt="Add recipe" width="200"/>
+<img src="app/src/main/res/drawable-v24/scene6.png"
+  alt="Recipe details" width="200"/>
+<img src="app/src/main/res/drawable-v24/scene7.png"
+  alt="Favourite" width="200"/>
 
 
 
