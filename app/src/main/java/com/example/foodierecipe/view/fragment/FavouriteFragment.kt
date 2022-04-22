@@ -43,7 +43,7 @@ class FavouriteFragment : Fragment() {
         viewModel.favouriteRecipe.observe(viewLifecycleOwner) { dishes ->
             dishes.let {
 
-                binding!!.rvFavoriteDishesList.layoutManager =
+                binding.rvFavoriteDishesList.layoutManager =
                     GridLayoutManager(requireActivity(), 2)
 
                 val adapter = RecipeAdapter(this)
