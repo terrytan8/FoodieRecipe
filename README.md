@@ -3,9 +3,9 @@
   alt="Main Page" width ="50" height = "50" />
 
 
-FoodieRecipe helps users to record recipes with details. Users can create a recipe with picture,. Users can also add member to specific board and assign task to them.
+FoodieRecipe helps users to record recipes with details. Users can create a recipe with picture.
 
-## Sreenshot
+## Screenshot
 <img src="app/src/main/res/drawable-v24/scene1.png" 
   alt="Splash" width="200"/>
 <img src="app/src/main/res/drawable-v24/scene2.png"
